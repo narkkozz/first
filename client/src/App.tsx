@@ -71,9 +71,9 @@ const movies = [
       "Three strangers must solve one puzzle before the final train leaves the station.",
   },
   {
-    id: 6,
-    title: "Project Haily Mary",
-    poster_url: "/posters/the-last-train.svg",
+    id: 7,
+    title: "Project Hail Mary",
+    poster_url: "/posters/project-hail-mary.png",
     release_year: 2026,
     genre: "Fiction",
     rating: 8.4,
